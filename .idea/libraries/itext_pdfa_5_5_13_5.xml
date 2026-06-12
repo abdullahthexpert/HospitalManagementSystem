@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="itext-pdfa-5.5.13.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/iText5-5.5.13.5-only-jars/itext-pdfa-5.5.13.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/iText5-5.5.13.5-only-jars/itext-xtra-5.5.13.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/iText5-5.5.13.5-only-jars/itextpdf-5.5.13.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/iText5-5.5.13.5-only-jars/xmlworker-5.5.13.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
